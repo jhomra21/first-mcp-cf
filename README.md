@@ -36,7 +36,7 @@ Update with this configuration[Uses My Remote MCP Resume]:
 ```json
 {
   "mcpServers": {
-    "calculator": {
+    "Resume Reader": {
       "command": "npx", // or bunx
       "args": [
         "mcp-remote",
