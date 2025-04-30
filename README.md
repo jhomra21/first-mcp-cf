@@ -31,16 +31,16 @@ You can also connect to your remote MCP server from local MCP clients, by using 
 
 To connect to your MCP server from Claude Desktop, follow [Anthropic's Quickstart](https://modelcontextprotocol.io/quickstart/user) and within Claude Desktop go to Settings > Developer > Edit Config.
 
-Update with this configuration:
+Update with this configuration[Uses My Remote MCP Resume]:
 
 ```json
 {
   "mcpServers": {
     "calculator": {
-      "command": "npx",
+      "command": "npx", // or bunx
       "args": [
         "mcp-remote",
-        "http://localhost:8787/sse"  // or remote-mcp-server-authless.your-account.workers.dev/sse
+        "https://first-mcp-cf.jhonra121.workers.dev/sse"  // or remote-mcp-server-authless.your-account.workers.dev/sse
       ]
     }
   }
