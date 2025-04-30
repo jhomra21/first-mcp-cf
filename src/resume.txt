@@ -1,0 +1,46 @@
+Juan Ramon Martinez Bulnes
+Software Developer
+website: juanrmb.pages.dev
+email: jhonra121@gmail.com
+phone: 956-360-1430
+
+Motivated and technically professional with advanced knowledge and expertise in web development, specializing in a
+wide range of programming languages. Skilled in both front-end and back-end development, with a strong emphasis on
+creating efficient, user-friendly interfaces. Capable of managing website construction and design by utilizing frameworks
+or base languages. Well-versed in collaborating with team members, spearheading projects, and enhancing team
+productivity.
+Languages and Tools
+Website Development: Ruby on Rails | Node.js | Bun | Hono.js | Express | React | SolidJS | Flask | nginx | Cloud Flare | Heroku |
+Vercel | Docker | Ubuntu | Supabase
+Collaboration Tools: GitHub | JIRA Boards (Agile Methodology) | Microsoft Office Suite | Latex for PDF Creation
+Programming Languages: C++ | Python | Java | Ruby | Dart/Flutter | C | Assembly | HTML | CSS | Type/JavaScript | jQuery |
+SQL | MySQL | Postgres | SQLite | MongoDB | Linux/unix servers
+Academic Highlights
+Masters of Computer Science | University of Texas Rio Grande Valley 2021 – 2023
+● Mastered advanced skills in software development, including object-oriented programming, web development, and mobile
+application creation.
+● Enhanced understanding of computer architecture, operating systems, and network design, laying a foundation for robust
+system development. Cultivate proficiency in database management and big data analytics.
+Professional Experience
+Student Web Dev Assistant | IT Web Development Office, UTRGV 2019 – 2020
+● Collaborated with faculty to design department pages and assisted in building them.
+● Worked on a large volume of university sites, offering support in website design and construction.
+● Increased efficiency for faculty in editing and creating sites by developing site template modules using Velocity in Java.
+Education
+Master of Computer Science | University of Texas Rio Grande Valley, 2023
+Bachelor of Computer Science | University of Texas Rio Grande Valley, 2020
+Associate in Computer Science | South Texas College, 2017
+High School Diploma | Sharyland High School, McAllen, TX, 2017
+Key Projects
+Fast AI Photos (fastaiphotos.com): Full-Stack SaaS built using SolidJS, Hono, Supabase, Cloudflare (Pages-Workers-R2), Fal.ai
+and Together.ai
+AI-Tools (https://cf-ai-tools.pages.dev/): Site containing chatting and image generation AI tools
+AI Image Generation Flask App: Web app that lets users connect to Replicate (gpu and ai models provider).
+(git repo: ‘https://github.com/jhomra21/replicate_flask_imgGen’)
+Software Engineering Final Project: Developed website using Ruby/Sinatra, HTML, CSS, & JavaScript, deployed on Heroku.
+Senior Project: Built hotel booking website for the RGV area, with customer and management sides. Deployed on heroku,
+using stripe payments.
+Machine Learning Project: Solved Vermilion Gym Using Reinforced Learning, with Aaron Cuadras.
+To see more projects visit: juanrmb.pages.dev
+Awards
+Scholarship for Accomplished Students | VADA Scholarship | Shary Shivers Scholarship
